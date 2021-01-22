@@ -1,0 +1,24 @@
+{
+  "name": "newproject0.2",
+  "version": "1.0.0",
+  "description": "A real world node js project trying on github",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bihter-yalcin/node.jsproject0.2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bihter-yalcin/node.jsproject0.2/issues"
+  },
+  "homepage": "https://github.com/bihter-yalcin/node.jsproject0.2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.4.0"
+  }
+}
